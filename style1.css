@@ -1,0 +1,11 @@
+/* styles.css */
+
+/* Link hover effect */
+nav ul li a:hover {
+    color: blue; /* Change color on hover */
+}
+
+/* Link active effect */
+nav ul li a:active {
+    color: azure;  /*Change the color when clicked */
+}
